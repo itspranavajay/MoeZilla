@@ -24,7 +24,7 @@ Hey, I'm RedAyra, a Web Developer 🚀, Back End Developer & Discord & Telegram 
 
 
 ## Streak
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=danascape&theme=dark"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=moezilla&theme=dark"/></p>
 
 <br>
 
