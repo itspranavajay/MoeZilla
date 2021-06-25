@@ -22,6 +22,14 @@ Hey, I'm RedAyra, a Web Developer 🚀, Back End Developer & Discord & Telegram 
 - 😄 Pronouns :  **He/Him.**
 - ⚡ Fun fact : **JavaScript >>>> Python.**
 
+
+## Streak
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=danascape&theme=dark"/></p>
+
+<br>
+
+
+
 **Languages and Tools:**  
 
 
@@ -43,11 +51,8 @@ Hey, I'm RedAyra, a Web Developer 🚀, Back End Developer & Discord & Telegram 
 **Stats:**  
 
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=MoeZilla&theme=dracula&count_private=true"></div>
+<div align="right"><img src="https://github-profile-trophy.vercel.app/?username=MoeZilla&theme=dracula&count_private=true"></div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=MoeZilla&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoeZilla&theme=tokyonight&hide=batchfile">
-
-
-
 
 
 
