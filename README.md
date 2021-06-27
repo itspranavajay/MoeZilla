@@ -51,8 +51,7 @@ Hey, I'm RedAura, a Web Developer 🚀, Back End Developer & Discord & Telegram 
 **Stats:**  
 
 
-<div align="right"><img src="https://github-profile-trophy.vercel.app/?username=MoeZilla&theme=dracula&count_private=true"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=MoeZilla&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoeZilla&theme=tokyonight&hide=batchfile">
+![MoeZilla's github stats](https://github-readme-stats.vercel.app/api?username=MoeZilla&show_icons=true)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoeZilla&layout=compact&langs_count=99)](https://github-readme-stats.vercel.app/api/top-langs/?username=MoeZilla&layout=compact&langs_count=99)
 
