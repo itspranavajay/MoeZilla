@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Pranav! ([Cute Human |).
+### Hi there 👋, I'm Pranav! (Noob).
 
 <br/>
 <a href="https://www.instagram.com/pranavpokedude/">
