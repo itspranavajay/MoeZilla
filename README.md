@@ -28,8 +28,8 @@ Hey, I'm RedAura, a Web Developer 🚀, Back End Developer & Discord & Telegram 
 
 <br>
 
-
-
+---
+<a href=
 **Languages and Tools:**  
 
 
@@ -48,10 +48,12 @@ Hey, I'm RedAura, a Web Developer 🚀, Back End Developer & Discord & Telegram 
 <code><img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /></code>
 
 
+
+
+
 **Stats:**  
 
 
-![MoeZilla's github stats](https://github-readme-stats.vercel.app/api?username=MoeZilla&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoeZilla&layout=compact&langs_count=99)](https://github-readme-stats.vercel.app/api/top-langs/?username=MoeZilla&layout=compact&langs_count=99)
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=MoeZilla&theme=dracula&count_private=true"></div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=MoeZilla&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoeZilla&theme=tokyonight&hide=batchfile">
 
