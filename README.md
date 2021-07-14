@@ -14,7 +14,7 @@ Hey, I'm RedAura, a Web Developer 🚀, Back End Developer & Discord & Telegram 
  **Information:**
 
 - 🔭 I’m currently working on  **Open Source Projects and Discord , Telegram Bots.**
-- 🌱 I’m currently learning  **JS, Python, Kotlin.**
+- 🌱 I’m currently learning  **JS, Python, Kotlin, Go.**
 - 👯 I’m looking to collaborate on **More Open Source Projects.**
 - 🤔 I’m looking for help with  **Data Structures and DP stuff.**
 - 💬 Ask me about  Anything related to **Tech.**
