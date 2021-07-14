@@ -9,7 +9,7 @@
 
 
 
-Hey, I'm RedAura, a Web Developer 🚀, Back End Developer & Discord & Telegram Bot Developer from India. ~~And a Weeb.~~
+Hey, I'm RedAura, a Web Developer 🚀, Back End Developer & Discord & Telegram Bot Developer from Nepal. ~~And a Weeb.~~
 
  **Information:**
 
