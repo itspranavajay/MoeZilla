@@ -26,6 +26,11 @@ Hey, I'm RedAura, a Web Developer 🚀, Back End Developer & Discord & Telegram 
 FUN FACT.
 > UAE ✨ I was born in India/Bihar = UAE + INDIAN
 
+# **"How much do you guys Earn?"**
+Answer It.
+> UAED = 202656.93, USD = 55176.27 AND INR = 41,16,729
+
+
 
 ## Streak
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=moezilla&theme=dark"/></p>
