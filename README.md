@@ -22,6 +22,10 @@ Hey, I'm RedAura, a Web Developer 🚀, Back End Developer & Discord & Telegram 
 - 😄 Pronouns :  **He/Him.**
 - ⚡ Fun fact : **JavaScript >>>> Python.**
 
+# **"Where are you from?"**
+FUN FACT.
+> UAE ✨ I was born in India/Bihar = UAE + INDIAN
+
 
 ## Streak
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=moezilla&theme=dark"/></p>
