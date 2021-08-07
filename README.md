@@ -9,7 +9,7 @@
 
 
 
-Hey, I'm RedAura, a Web Developer 🚀, Back End Developer & Discord & Telegram Bot Developer from UAE And India. ~~And a Weeb.~~
+Hey, I'm RedAura, a Web Developer 🚀, Back End Developer & Discord & Telegram Bot Developer from India. ~~And a Weeb.~~
 
  **Information:**
 
@@ -21,16 +21,6 @@ Hey, I'm RedAura, a Web Developer 🚀, Back End Developer & Discord & Telegram 
 - 📫 Contact me at :  **PranavAjay594@gmail.com.**
 - 😄 Pronouns :  **He/Him.**
 - ⚡ Fun fact : **JavaScript >>>> Python.**
-
-# **"Where are you from?"**
-FUN FACT.
-> UAE ✨ I was born in India/Bihar = UAE + INDIAN
-
-# **"How much do you guys Earn?"**
-Answer It.
-> UAED = 202656.93, USD = 55176.27 AND INR = 41,16,729
-
-
 
 ## Streak
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=moezilla&theme=dark"/></p>
