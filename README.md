@@ -5,7 +5,6 @@
   <img align="left" alt="Pranav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-![](https://visitors-badge.glitch.me/badge?page_id=Awesome-RJ.Awesome-RJ)
 
 
 
