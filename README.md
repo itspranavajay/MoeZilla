@@ -23,7 +23,7 @@ Hey, I'm RedAura, a Web Developer 🚀, Back End Developer & Discord & Telegram 
 - ⚡ Fun fact : **JavaScript >>>> Python.**
 
 ## Streak
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=moezilla&theme=dark"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MoeZilla&theme=dark"/></p>
 
 <br>
 
