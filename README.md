@@ -1,14 +1,7 @@
 ### Hi there 👋, I'm Pranav! (Noob).
 
-<br/>
-<a href="https://www.instagram.com/pranavpokedude/">
-  <img align="left" alt="Pranav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 
-
-
-
-Hey, I'm RedAura, a Web Developer 🚀, Back End Developer & Discord & Telegram Bot Developer from India. ~~And a Weeb.~~
+Hey, I'm Moezilla, a Web Developer 🚀, Back End Developer & Discord & Telegram Bot Developer from India. ~~And a Weeb.~~
 
  **Information:**
 
@@ -51,7 +44,7 @@ Hey, I'm RedAura, a Web Developer 🚀, Back End Developer & Discord & Telegram 
 
 **Stats:**  
 
-
+![Code Time](http://img.shields.io/badge/Code%20Time-2962%20hrs%204%20mins-blue)
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=MoeZilla&theme=dracula&count_private=true"></div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=MoeZilla&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoeZilla&theme=tokyonight&hide=batchfile">
 
